@@ -16,7 +16,10 @@
 
 require 'simplecov'
 require 'simplecov-console'
+<<<<<<< HEAD
 require_relative "../lib/tic_tac_toe.rb"
+=======
+>>>>>>> 667a6d98098094b374b627135c1f9d66c454492b
 
 SimpleCov.formatter = SimpleCov::Formatter::Console
 SimpleCov.start
