@@ -5,7 +5,7 @@ module TicTacToe
 
     def initialize(input)
       @color = input.fetch(:color)
-      @color = input.fetch(:name)
+      @name = input.fetch(:name)
     end
 
   end
