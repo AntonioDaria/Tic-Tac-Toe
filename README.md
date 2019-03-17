@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A ruby version of th board game
+A ruby version of the board game
